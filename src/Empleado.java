@@ -1,4 +1,4 @@
 public class Empleado {
-    int 10;
+    int x=10;
 
 }
